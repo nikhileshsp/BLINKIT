@@ -11,7 +11,8 @@ Discover patterns in retail sales by fat content, category, and outlet features
 Analyze the impact of store characteristics on sales and ratings
 
 Enable rapid explorations for machine learning & visualization
-Screenshot 2025-12-19 154923.png
+
+<img width="1383" height="679" alt="Screenshot 2025-12-19 154923" src="https://github.com/user-attachments/assets/cafd692f-e735-411c-80e9-44152b7dbaa6" />
 
 🧑‍💻 Getting Started
 1. Clone Repository
